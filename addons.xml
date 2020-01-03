@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
 <addon id="plugin.video.aevi" version="1.0.1" name="Aevi" provider-name="Aevi">
 	<requires>
@@ -17,8 +17,8 @@
 		<platform>all</platform>
 		<license></license>
 		<assets>
-            <icon>resources/media/icon.png</icon>
-            <fanart>resources/media/fanart.png</fanart>
+            <icon>icon.png</icon>
+            <fanart>fanart.png</fanart>
     			<screenshot></screenshot>
 		</assets>
 		<news></news>
