@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="plugin.video.aevi" version="1.0.10" name="Aevi" provider-name="Aevi">
+<addon id="plugin.video.aevi" version="1.0.15" name="Aevi" provider-name="Aevi">
 	<requires>
       <import addon="xbmc.python" version="2.24.0"/>
       <import addon="xbmc.metadata" version="2.1.0"/>
