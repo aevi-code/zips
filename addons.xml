@@ -121,7 +121,7 @@
 	</extension>
 </addon>
 
-<addon id="script.module.myaccounts" version="1.0.0" name="My Accounts" provider-name="Aevi">
+<addon id="script.module.myaccounts" version="1.0.1" name="My Accounts" provider-name="Aevi">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0" />
 		<import addon="script.module.requests" version="2.19.1" />
@@ -166,5 +166,3 @@
     </extension>
 </addon>
 </addons>
-
-
